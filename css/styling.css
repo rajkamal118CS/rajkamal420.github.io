@@ -1,0 +1,100 @@
+body{
+	background-color: aqua;
+	margin: 0px;
+	padding: 0px;
+
+}
+h1{
+	text-align: center;
+	
+	font-size: 3em;
+	font-weight: bold;
+	font-style: bold;
+	padding: 0.8em;
+	margin: 0%;
+	text-decoration: underline;
+	
+
+	
+}
+h4{
+	font-size: 1.75em;
+	text-align: center;
+	border-bottom: 1em;
+	padding: 0em;
+	margin: 0em;
+}
+h6{
+	font-size: 0.79em;
+	text-align: center;
+	padding: 0em;
+	margin: 0em;
+}
+header{
+	background-image:linear-gradient(transparent 50%,aqua),
+	 url('../img/sunset.jpg');
+	background-size: cover;
+	padding: 0%;
+	margin: 0 0 0 0;
+}
+#menu{
+	
+	text-align: center;
+	padding: 1em;
+	margin: 0px;
+}
+#menu a{
+	padding: 0.5em;
+	margin: 0.5em;
+	box-shadow: 3px 3px aqua ,
+	inset 3px 3px aqua;
+	border-radius: 3px;
+}
+#img a{
+	padding: 0px;
+}
+a:visited{
+	color: black;
+}
+a:link{
+	color: black;
+}
+a{
+	text-decoration: none;
+}
+
+li{width: 40%;
+	
+
+	border-radius: 5%;
+	margin:2%;
+	float: left;
+	list-style: none;
+	padding: 0px;
+}
+h5{margin: 0%;
+	font-size: 2em;
+	background-color: darkturquoise;
+	text-align: center;
+	
+
+}
+ul{
+	
+	overflow: auto;
+
+}
+
+
+img{
+	border-radius: 1em;
+}
+footer{
+	background-image: linear-gradient(aqua,royalblue);
+	text-align: center;
+
+}
+footer img{
+	width: 2%
+
+}
